@@ -20,6 +20,7 @@
         <td>icon</td>
         <td>icon</td>
         <td>icon</td>
+        <td>icon</td>
       </tr>
       <tr class="rest-rows">
         <td>42 Rad Features</td>
